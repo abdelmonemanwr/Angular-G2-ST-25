@@ -1,0 +1,14 @@
+functions
+  -- built in function
+  -- user defined function
+     -- function statement
+     -- function expression
+        -- anonymous function
+        -- callback function
+  -- hoisting
+  -- default values
+  -- String Objects
+  -- Array
+  -- Self Study: Date Object
+
+Session Record Link: https://drive.google.com/file/d/1h2PA1r2xLVLE0utw1tVPJ6-bgfywn2y2/view?usp=drive_link
