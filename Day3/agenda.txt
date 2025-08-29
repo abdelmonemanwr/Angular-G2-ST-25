@@ -1,0 +1,53 @@
+ *  == functions executions in memory
+ *  == local scope VS global scope
+ *  == Shadwing
+ *  == Math Object
+ *  == Object
+ *  == DOM Tree
+ * -----------------------------------------
+ * -- Dom
+ *  -- How to select elements from dom
+ *  -- change content
+ *  -- Change Style
+ *
+ * 
+ * 
+ * /** Dom --> Document Object Model
+ * ---------------------------------
+ * ==  How to select Element from Dom Tree
+ * ---------------- Methods -------------------
+ * == getElementById --> element
+ * == getElementsByClassName --> collection
+ * == getElementsByTagName --> collection
+ * == getElementsByName --> NodeList
+   == querySelectorAll --> NodeList
+ * == querySelector --> element
+ *
+   --------------- Properties ----------------
+ * == document.body
+   == document.links
+   == document.images
+   == document.forms
+   == firstChild
+   == [parent].firstElementChild
+   == lastChild
+   == lastElementChild
+   == childNodes
+   == children
+
+   
+/** change content
+ * == innerText
+ * == innerHTML
+ * == textContent (search)
+ * ------------------change Style--------------
+ *  1- style object
+ *  2- className
+ *  3- classList
+ *    -- add
+ *    -- remove
+ *    -- toggle
+ */
+
+
+Recorded Session Url : https://drive.google.com/drive/folders/1kMpWlOvq-YnmICQfOchAzfqR8T_Uhu-K
