@@ -1,0 +1,43 @@
+= Dom
+  1-- attributes
+  2-- getAttribute("x") -> where :
+          [&]  x can be (class, id, ...)
+  3-- setAttribute("x", "y") -> where :
+          [&]  x: can be (class, id, ...)
+          [&]  y: is the value of the attribute
+  4-- hasAttribute("x") -> where :
+          [&]  x can be (class, id, ...)
+          [&]  return true or false
+  5-- removeAttribute("x") -> where :
+          [&]  x can be (class, id, ...)
+
+----------------------------------------------------
+= you can get good images from this website : https://www.pexels.com
+= https://www.remove.bg/upload
+----------------------------------------------------
+
+= How to create elements using JavaScript?
+
+ 1-- createElement("x") -> where :
+          [&] x can be (div, p, img, table, ...)
+ 2-- createTextNode("x") -> where :
+          [&] x = my text ==> (value)  "hello world"
+ 3-- createComment("x") -> where :
+          [&] x = my text ==> (value)  "my comment"
+ 4-- appenedChild()
+ 5-- appened()
+ 6-- before()
+ 7-- after()
+
+----------------------------------------------------
+
+= Events
+  1-- Add Attributes
+  2-- Attach Function
+  3-- Add Event Listener
+
+  Propagation (Self Study)
+
+
+
+Recorded Session Url : https://drive.google.com/drive/folders/1LYjTBbifPZvVkS_h3h28Dy1OcghNosZS
