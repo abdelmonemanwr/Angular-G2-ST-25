@@ -1,0 +1,14 @@
+= BOM
+  1- window
+  2- location
+  3- history
+  4- navigator
+  5- screen (self study)
+
+= Cookies
+    1- types
+        (A) Session Cookies
+        (B) Persistant Cookies
+    2- usage
+    3- implementation
+= Error Handler
