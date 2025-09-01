@@ -27,6 +27,12 @@
     - Error handling  (search how to apply error handling on ajax)
 
 
+recorded session url: https://drive.google.com/drive/u/1/folders/1tLEiDbnGmHGvI1ywiY58yqYEXXovPBSL?hl=ar
+
+whiteboard url: https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtL2Q2ZmU2ZDY0NzQxODRmYmFhOGZjZmI1ZDAwOTMyNzlhX0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRF84Zjc3YmZlZC0yYjY4LTRhYWUtYjQ2NC02NzQwOWU0ODc0MDQ=
+
+
+
 
 https://www.amazon.com/products/GetAllProducts (pagesize=10, pagenumber=1)   get
 https://www.amazon.com/products/AddNewProduct  (product data)                post (create)
